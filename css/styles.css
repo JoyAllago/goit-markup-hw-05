@@ -678,7 +678,7 @@ li{
     border: none;
 }
 
-.modal-buttond-closed-svg{
+.modal-button-closed-svg{
     transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
