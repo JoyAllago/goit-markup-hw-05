@@ -661,7 +661,7 @@ li{
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-button-closed{
+.modal-button-close{
     position: absolute;
     top: 24px;
     right: 24px;
@@ -678,13 +678,13 @@ li{
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-button-closed:hover,
-.modal-button-closed:focus{
+.modal-button-close:hover,
+.modal-button-close:focus{
     background-color: #404bbf;
     border: none;
 }
 
-.modal-button-closed-svg{
+.modal-button-close-svg{
     transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
