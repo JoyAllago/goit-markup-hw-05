@@ -59,6 +59,11 @@ body{
     border-bottom: 1px solid #e7e9fc;
 }
 
+.link{
+    position: relative;
+    color: var(--ocean);
+}
+
 .link:hover .portfolio-color-con,
 .link:focus .portfolio-color-con{
     transform: translateY(0%);
