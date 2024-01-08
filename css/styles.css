@@ -556,8 +556,8 @@ li{
 }
 
 
-.portfolio-link:hover .portfolio-color-con,
-.portfolio-link:focus .portfolio-color-con{
+.portfolio-link:hover .portfolio-card,
+.portfolio-link:focus .portfolio-card{
     transform: translateY(0%);
 }
 
