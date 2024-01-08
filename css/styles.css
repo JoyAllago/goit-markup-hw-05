@@ -76,10 +76,6 @@ body{
     overflow: hidden;
 }
 
-.active,link{
-    color: #404bbf;
-}
-
 .link::after{
     content: "";
     position: absolute;
