@@ -61,7 +61,7 @@ body{
 
 .link{
     position: relative;
-    color: var(--ocean);
+    color: #404bbf;
 }
 
 .link:hover .portfolio-color-con,
